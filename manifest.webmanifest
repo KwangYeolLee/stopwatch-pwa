@@ -1,0 +1,1 @@
+{"name":"Stopwatch PWA","short_name":"Stopwatch","start_url":"/stopwatch-pwa/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/stopwatch-pwa/","id":"/stopwatch-pwa/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
